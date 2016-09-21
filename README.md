@@ -8,5 +8,14 @@ Virtually every organization in the world, is made up of people and managed via 
 * Collective Management
 * Onboardning and Backward Compatibility
 
+Further details about goals are provided in the Goals page.
+
+# Templates
+
+
+# Usecases
+
+
+
 
 
