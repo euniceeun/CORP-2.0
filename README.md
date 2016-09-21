@@ -6,7 +6,7 @@ Virtually every organization in the world, is made up of people and managed via 
 
 * Continuous Evaluation of Employees
 * Collective Management
-* Backward Compatibility
+* Onboardning and Backward Compatibility
 
 
 
